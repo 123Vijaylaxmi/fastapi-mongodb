@@ -46,10 +46,5 @@ uvicorn main:app --reload
 👉 http://127.0.0.1:8000/docs → Interactive Swagger UI
 
 
-📸 Swagger UI
-You can test your API visually using Swagger UI:
-<img width="1897" height="925" alt="image" src="https://github.com/user-attachments/assets/7bfbf74a-a1fe-4b48-a06c-bfbe0b44699c" />
-
-
 
  Created by Vijaylaxmi Patil
