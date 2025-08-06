@@ -20,6 +20,11 @@ This is a simple REST API built using FastAPI and MongoDB (Atlas) to manage user
 }
 
 
+📥 Get All Users
+GET /get_users
+
+Returns a list of all user data in the database.
+
 
 
 🛠️ How to Run Locally
